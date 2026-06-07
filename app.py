@@ -7,7 +7,8 @@ USERS = {
     "testuser": "password123",
     "user01": "thichfarmgem",
     "haica":"thichfarmgem",
-    "duyle":"123456789"
+    "duyle":"123456789",
+    "phu":"phu123"
 }
 
 # Biến lưu danh sách tài khoản đang online và thông tin thiết bị đang chiếm quyền
